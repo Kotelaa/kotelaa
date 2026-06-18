@@ -7,8 +7,8 @@ I combine analytical thinking from my psychology background with technical skill
 ---
  
 ### 🛠 Tech Stack
- 
-**Languages:** Python
+
+**Languages:** Python  
 **Frameworks:** Django, Django REST Framework, Aiogram (basic)  
 **Databases:** PostgreSQL  
 **Tools:** Git, Figma, Photoshop, WhiteNoise  
