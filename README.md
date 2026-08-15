@@ -41,4 +41,4 @@ I combine analytical thinking from my psychology background with technical skill
  
 - Russian – Native
 - Polish – B1 (daily use)
-- English – B1 (written, technical)
+- English – B2
