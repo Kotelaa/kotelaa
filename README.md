@@ -9,10 +9,11 @@ I combine analytical thinking from my psychology background with technical skill
 ### 🛠 Tech Stack
 
 **Languages:** Python  
-**Frameworks:** Django, Django REST Framework, Aiogram (basic)  
+**Frameworks & Concepts:** Django, Django REST Framework (DRF), aiogram, Object-Oriented Programming (OOP), RESTful API design
 **Databases:** PostgreSQL  
-**Tools:** Git, Figma, Photoshop, WhiteNoise  
-**API Docs:** Swagger (drf-spectacular), ReDoc  
+**Tools:** Git, GitHub, Version Control, Docker (basic), CI/CD (GitHub Actions basics), Figma, Photoshop
+**API Docs:** Swagger / ReDoc (drf-spectacular)
+**Testing:** pytest, pytest-django, Unit Testing, Test-Driven mindset  
 **Deployment:** Railway  
  
 ---
@@ -21,7 +22,7 @@ I combine analytical thinking from my psychology background with technical skill
  
 | Project | Description | Tech |
 |---|---|---|
-| [Habit & Mood Tracker](https://github.com/Kotelaa/habit_tracker) [Live Demo](https://habittracker-production-8eea.up.railway.app/) | Full-stack Django web app for tracking habits and mood with REST API and Swagger docs. Deployed on Railway. | Django, DRF, PostgreSQL |
+| [Habit & Mood Tracker](https://github.com/Kotelaa/habit-mood-tracker) | Full-stack Django web app for tracking habits and mood with REST API and Swagger docs. Deployed on Railway. | Django, DRF, PostgreSQL |
 | [Moscow Zoo Bot](https://github.com/Kotelaa/MoscowZooBot) | Telegram bot that helps users discover their totem animal through a quiz and connects them with the zoo's guardianship program. | Python, Aiogram 3, FSM |
 | [Recipe Bot](https://github.com/Kotelaa/RecipeBot) | Telegram bot that suggests recipes based on user input. | Python, Aiogram |
 | [Currency Converter Bot](https://github.com/Kotelaa/CurrencyChangeBot) | Telegram bot for real-time currency conversion. | Python, Aiogram |
@@ -40,5 +41,5 @@ I combine analytical thinking from my psychology background with technical skill
 ### 🌍 Languages
  
 - Russian – Native
-- Polish – B1 (daily use)
+- Polish – B2 (daily use)
 - English – B2
